@@ -8,6 +8,8 @@ This is a gazebo plugin which has building models and a humanoid robot
 2. `cd` into the repository folder
 3. 
    ```sh 
-   make
+   $ make
+   $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
+   $ gazebo world/myofficeworld
    ```
 4. This will build all the dependencies and will run the system
