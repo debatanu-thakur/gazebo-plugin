@@ -1,0 +1,3 @@
+/home/workspace/gazebo-plugin/build/CMakeFiles/edit_cache.dir
+/home/workspace/gazebo-plugin/build/CMakeFiles/welcome.dir
+/home/workspace/gazebo-plugin/build/CMakeFiles/rebuild_cache.dir
