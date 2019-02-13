@@ -9,7 +9,7 @@ This is a gazebo plugin which has building models and a humanoid robot
 3. 
    ```sh 
    $ make
-   $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
+   $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/gazebo-plugin/build
    $ gazebo world/myofficeworld
    ```
 4. This will build all the dependencies and will run the system
