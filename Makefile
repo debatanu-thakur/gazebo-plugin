@@ -14,5 +14,5 @@ cmake_build:
 make_build:
 	cd build && make
 run_gazebo: export
-	gazebo ./world/myofficeworld
+	gazebo world/office.sdf
 	
